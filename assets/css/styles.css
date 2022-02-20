@@ -360,8 +360,8 @@ footer {
   }
 
   .hero img {
-    height: 20rem;
-    width: 20rem;
+    height: 10rem;
+    width: 10rem;
   }
 
   .bio {
@@ -402,8 +402,8 @@ footer {
 
 @media screen and (max-width: 420px) {
   .hero img {
-    height: 20rem;
-    width: 20rem;
+    height: 10rem;
+    width: 10rem;
   }
 
   .bio {
